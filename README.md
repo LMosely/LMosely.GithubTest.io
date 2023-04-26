@@ -19,3 +19,4 @@ xi. user table =	10000
 2. Find the total distinct records by either the foreign key or primary key for each table. If two foreign keys are listed in the table, please specify which foreign key.
 
 
+[](https://www.example.com)
