@@ -20,7 +20,7 @@ WHERE id IS NULL
    OR complement_hot IS NULL
    OR 
    
-   
+ []("C:\Users\marie\Downloads\main.sql")
 
 	
 
