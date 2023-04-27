@@ -1,19 +1,27 @@
-# GithubTest
-Part 1: Yelp Dataset Profiling and Understanding
+# Lakisha Mosely_Portfolio
+Data Science Exercise
 
-1. Profile the data by finding the total number of records for each of the tables below:
+# Procject 1: Profiling and Analyzing the Yelp Dataset provided by Coursera 
+This exercise is part of the University of California, Davis - SQL for Data Science course
 
-i. Attribute table =	10000
-ii. Business table =	10000
-iii. Category table =	10000
-iv. Checkin table =	10000
-v. elite_years table =	10000
-vi. friend table = 	10000
-vii. hours table =	10000
-viii. photo table = 	10000
-ix. review table = 	10000
-x. tip table = 		10000
-xi. user table =	10000
+1. Are there any columns with null values in the Users table? Indicate "yes," or "no."
+
+SELECT *
+FROM user
+WHERE id IS NULL
+   OR name IS NULL
+   OR review_count IS NULL
+   OR yelping_since IS NULL
+   OR useful IS NULL
+   OR funny IS NULL
+   OR cool IS NULL
+   OR fans IS NULL
+   OR average_stars IS NULL
+   OR complement_hot IS NULL
+   OR 
+   
+   
+
 	
 
 2. Find the total distinct records by either the foreign key or primary key for each table. If two foreign keys are listed in the table, please specify which foreign key.
