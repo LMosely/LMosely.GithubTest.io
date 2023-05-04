@@ -1,5 +1,11 @@
-# Lakisha Mosely_Portfolio
-Data Science Exercise
+# SQL-DataScience-Project
+This project was assigned in the SQL for Data Science course by University of California, Davis via Coursera. 
+
+The objective of this assignement is to profile and analyze a Yelp dataset.
+
+![](images/Output%20-%20Lists%20of%20Cities.png)
+
+
 
 # Procject 1: Profiling and Analyzing the Yelp Dataset provided by Coursera 
 This exercise is part of the University of California, Davis - SQL for Data Science course
