@@ -3,7 +3,7 @@ This project was assigned in the SQL for Data Science course by University of Ca
 
 The objective of this assignement is to profile and analyze a Yelp dataset.
 
-![](images/Yelp%20Dataset%20Diagram.png))
+![](images/Yelp%20Dataset%20Diagram.png)
 
 
 
