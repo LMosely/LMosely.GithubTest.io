@@ -2,7 +2,7 @@
 Profile and Analyze Yelp Dataset 
 */
 
---- null values in the Users table
+--- Find null values in the Users table
 
 SELECT *
 FROM user
