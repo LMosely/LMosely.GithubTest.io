@@ -13,3 +13,5 @@ WHERE id IS NULL
    OR complement_hot IS NULL;
 
 select
+
+---notes
