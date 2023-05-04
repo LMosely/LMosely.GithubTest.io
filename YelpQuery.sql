@@ -32,7 +32,7 @@ WHERE id IS NULL
 SELECT city, sum(review_count) as sum_reviews
 FROM business
 GROUP BY city
-ORDER BY sum_reviews DESC
+ORDER BY sum_reviews DESC;
 
 -- Distribution of star ratings to the business in the city Avon
 
