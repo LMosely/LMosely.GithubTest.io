@@ -1,6 +1,6 @@
 # SQL-DataScience-Project
 
-The objective of this assignement is to profile and analyze a Yelp dataset using SQL the skills performed include, but are not limited to; Subquries, JOIN, wildcard.
+The objective of this assignement is to profile and analyze a Yelp dataset using SQL. The [YelpQuery](https://github.com/LMosely/SQL-Analysis/blob/main/YelpQuery.sql) file includes the queries used to profile and analyze the data. The skills performed include, but are not limited to; Subquries, JOIN, wildcard.
 
 ![](images/Yelp%20Dataset%20Diagram.png)
 
